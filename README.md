@@ -57,14 +57,14 @@ Clone the repository and move into the project folder:
 
 ```bash
 git clone YOUR_REPOSITORY_LINK
-cd imdb-regression-selenide
+cd imdb_regression_test
 ```
 
 Example:
 
 ```bash
-git clone https://github.com/your-username/imdb-regression-selenide.git
-cd imdb-regression-selenide
+git clone https://github.com/your-username/imdb_regression_test.git
+cd imdb_regression_test
 ```
 
 All commands below must be run from the project root (the folder that contains `pom.xml`).
